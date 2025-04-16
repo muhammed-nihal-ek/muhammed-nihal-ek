@@ -5,6 +5,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Nihal😊</h1></summary>
   </ul>
 </div>
+
+
 <p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
@@ -14,18 +16,27 @@
     <summary><h2 style="display: inline-block">I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+  
 <!--tech stack icons-->
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,github,html,mysql,py,vscode,perline=14" />
   </a>
 </p>
 
+
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
+
+
+
 
 <!--icons and links-->
 <p align="center">
