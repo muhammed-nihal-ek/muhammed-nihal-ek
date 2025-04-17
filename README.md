@@ -9,7 +9,7 @@
 
 <li>🌱 I’m currently learning macjine Learning...
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <ul>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
