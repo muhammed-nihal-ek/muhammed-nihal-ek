@@ -11,8 +11,10 @@
 
 <li>🌱 I’m currently learning machine Learning...
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<ul>
+<p>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="nihal" />
+</p>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
