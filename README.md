@@ -6,7 +6,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Nihal😊</h1></summary>
   </ul>
 </div>
